@@ -9,6 +9,7 @@ This README contains a step-by-step guide on how to contribute and aims to remov
 Follow along to learn more!
 
 ## Before you start
+changes made here
 
 Before we get started, it's better if we get on the same page. We request you to get familiar with basic Linux commands, so that it's easier for you to follow through.
 
