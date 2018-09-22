@@ -10,7 +10,9 @@ Follow along to learn more!
 
 ## Before you start
 
-Before we get started, it's better if we get on the same page. We request you to get familiar with basic Linux commands, so that it's easier for you to follow through.
+
+Haraami  hu main
+
 
 A repository can be part of only 1 project. A project may have multiple repositories (by virtue of forking). Don't worry if you don't get this right now. Just remember this though.
 
